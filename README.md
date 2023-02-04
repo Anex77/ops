@@ -1,3 +1,2 @@
 # ops
-Soda Foudantion
-This repository is for KAHU project
+This repository is for KAHU project.
